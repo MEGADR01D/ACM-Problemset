@@ -1,3 +1,7 @@
+/*
+* 11062 - Andy's Second Dictionary: https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2003
+*/
+
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collections;
