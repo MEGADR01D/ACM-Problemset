@@ -1,6 +1,5 @@
 /*
-* Uva 11995 - I Can Guess the Data Structure!
-* https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3146
+* Uva 11995 - I Can Guess the Data Structure!: https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3146
 */
 
 import java.io.PrintWriter;
