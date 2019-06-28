@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.io.PrintWriter;
 
-public class Main {
+public class TEX {
 
     public static void main(String[] args) {
 
