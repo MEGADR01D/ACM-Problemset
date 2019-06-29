@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.io.PrintWriter;
 
-public class Main {
+public class EcoPrem {
 
     public static void main(String[] args) {
 
@@ -20,7 +20,7 @@ public class Main {
 
             for (int j = 0; j < f; j++) {
                 s = reader.nextInt();
-                reader.nextInt(); // redundant
+                reader.nextInt(); // Number of animals is redundant.
                 ef = reader.nextInt();
                 b += (long) s * ef;
             }
